@@ -1,6 +1,13 @@
-<<<<<<< HEAD
-For the FizzBuzz Assignment, I decided to teach myself some command line interface in Node.js
-by running "node fizzbuzz.js" the program will prompt the user for input.
+Node-CLI-Programs
+=================
+
+Node.js Command Line Interface Programs
+
+FizzBuzz
+==
+Taught myself some Node.js by implementing common FizzBuzz game in a 
+Node.js command line interface
+clone the repo, npm install async, and play!
 
 Input should be formatted like this:
 3 Fizz, 5 Buzz, 10
@@ -20,9 +27,4 @@ The first example would print:
 8: 
 9: Fizz 
 10: Buzz
-=======
-Node-CLI-Programs
-=================
 
-Node.js Command Line Interface Programs
->>>>>>> d86aaae3a035aa916612e078b72682bcb9c4c898
