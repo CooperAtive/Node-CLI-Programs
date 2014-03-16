@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 For the FizzBuzz Assignment, I decided to teach myself some command line interface in Node.js
 by running "node fizzbuzz.js" the program will prompt the user for input.
 
@@ -19,3 +20,9 @@ The first example would print:
 8: 
 9: Fizz 
 10: Buzz
+=======
+Node-CLI-Programs
+=================
+
+Node.js Command Line Interface Programs
+>>>>>>> d86aaae3a035aa916612e078b72682bcb9c4c898
